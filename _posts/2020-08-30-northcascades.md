@@ -28,21 +28,37 @@ Before our main voyage, we needed an appetizer. The Maple Pass Loop is arguably 
 
 This was the day we ascended to the crow’s nest. From the trailhead, the climb to Cascade Pass is a steady, breathtaking 3.7-mile warm-up. At the pass, the world splits open. Behind you lies the valley you just conquered; ahead, the long, picturesque Stehekin Valley unfurls like a map to a hidden world.
 
+![pass](/images/cascades/cascade%20pass.jpg)
+*Cascade pass*
+
 But our path led upward. The trail to Sahale Arm is a beast—a steep, lung-searing climb of 2,300 feet over just 2.7 miles, including one section that felt like a vertical kilometer straight up.
 
 The reward for this toil? Camping at Sahale Arm. It is, without exaggeration, spectacular. At 7,600 feet, you are on top of the world. The campsites are like stone fortresses built for gods, offering 180-degree views over the sea of peaks. You're not looking *at* the mountains; you're *in* them, floating in their midst. The sunsets and sunrises from here are a kind of magic that rewrites your soul.
 
+![Lakedoubtful](/images/cascades/doubtful%20lake.jpg)
+*Lake Doubtful*
+
+
 **A hard-earned lesson:** Arrive early. On a previous trip, we hiked this last section in the dark, a headlamp-lit nightmare on treacherous scree. This time, we arrived with hours to spare, giving us time to set up camp, relax, and simply watch the world change color.
+
+| Sunrise and Sunset from Sahale Arm camp | |
+| ![sunrise](/images/cascades/morning%20sunset%202.jpg) | ![sunset](/images/cascades/dark%20orange%20sunset%202.jpg) |
+| ![sunrise2](/images/cascades//morning%20sunrise%20toothed.jpg) | ![sunset2](/images/cascades/orange%20toothed.jpg) |
 
 ### **Day 3: Descent into the Thundering Valley**
 
 What goes up must come down. The descent from Sahale Arm was even more technically challenging than the climb, requiring careful footing on the steep, slippery slopes. Back at Cascade Pass, we left the high ridges behind and dropped into the deep trough of the Stehekin Valley.
+
+![stehekin](/images/cascades/stehekin%20valley%202.jpg)
+*Stehekin valley*
 
 Our destination was Basin Creek campground, a tiny, three-site haven nestled deep in the valley. The change in atmosphere was absolute. We had left the windy, exposed world of rock and ice for a lush world of green. Our campsite was set next to Basin Creek, which was less a creek and more a roaring, thundering waterfall. The sound was a constant, powerful reminder of the forces that carved this incredible landscape. It was the perfect spot to soak our tired feet in the freezing water and feel the energy of the valley floor.
 
 ### **Day 4: Meadows, Mines, and the Final March**
 
 Our final day began with a short, 2-mile hike up to Horseshoe Basin. This detour is a must-do. The trail opens into a massive, panoramic cirque, a natural amphitheater draped in wildflower-filled meadows with countless waterfalls cascading down its steep walls.
+![horseshoe](/images/cascades/horse%20shoe%20basin.jpg)
+*Horseshoe basin*
 
 This beautiful basin also holds echoes of the past. Rusty old mining cables and a forgotten mine shaft are stark reminders of a different, grittier era. We scrambled up a steep talus slope to peer into the mine—a thrilling climb up, and a nerve-wracking slide back down. After soaking in the scenery, we packed up and began the long hike back to the car, our heads full of waterfalls and mountain views.
 
