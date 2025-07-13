@@ -9,6 +9,7 @@ subclass: 'post'
 author: nanashi no gonbei
 ---
 
+![cover](/images/enchantments/cover.jpg)
 ### Forged by Wind and Wonder: Our 7-Day Pilgrimage in The Enchantments
 
 For ten years, it was a ritual of hope and rejection. Every February, we'd enter the lottery for a permit to The Enchantments, and every March, we'd get the same result: "Unsuccessful." This wasn't just a hike; it was a pilgrimage to a mythical kingdom in the heart of the Cascades, a place so beautiful it was protected by a fortress of granite and bureaucracy.
@@ -23,30 +24,45 @@ Our plan was simple: get in, go slow, and soak up every moment.
 
 ### **Day 1: The Gates of Aasgard**
 
-After camping nearby, we began the journey. The initial hike to Colchuck Lake is a classic Cascades climb, but nothing prepares you for the view that awaits. The lake is a startling, otherworldly blue, cradled beneath the colossal Dragontail Peak. Across the water, our challenge for the next day loomed: Aasgard Pass, a brutal scar of a trail climbing 2,000 feet in under a mile. From our campsite, we watched the pass, wondering why we couldn’t see any other hikers. The next day, we’d realize why: from that distance, people look like ants.
+After camping nearby, we began the journey. The initial hike to Colchuck Lake is a classic Cascades climb, but nothing prepares you for the view that awaits. The lake is a startling, otherworldly blue, cradled beneath the colossal Dragontail Peak. 
+
+![colchuk](/images/enchantments/colchuck.jpg)
+Across the water, our challenge for the next day loomed: Aasgard Pass, a brutal scar of a trail climbing 2,000 feet in under a mile. From our campsite, we watched the pass, wondering why we couldn’t see any other hikers. The next day, we’d realize why: from that distance, people look like ants.
 
 ### **Day 2: Trial by Stone**
 
 Aasgard Pass is not a trail; it's a test. After boulder-hopping around the lake, we faced the climb. It’s a vertical river of rock and scree, a soul-testing scramble where the path vanishes and you’re left following faint cairns, crossing and re-crossing a waterfall that cascades down the rock face.
+
+![Asgard](/images/enchantments/asgard.jpg)
 
 Finally, gasping for air, we crested the pass and stepped into another world. The Core Enchantments. The harsh, vertical landscape gave way to a gentle, rolling basin of barren rock, dotted with the pristine waters of Tranquil and Isolation Lakes. We were exhausted but triumphant. We pitched our tent by a nameless lakelet, with a waterfall as our backdrop and curious mountain goats as our welcoming party. They would become our constant, furry companions, hoping for the salty reward of a nearby pee.
 
 ### **Day 3: A View from the Heavens**
 
 If Aasgard was the test, Little Annapurna was the reward. A short but steep 1,000-foot scramble from our camp brought us to the summit. From here, the entire kingdom of The Enchantments unfolded beneath us. We could trace our entire journey, from the top of Aasgard Pass to the glitter of Lake Viviane in the distance. Below us lay Crystal Lake; all around us, a 360-degree panorama of the Cascades, from Mount Baker to Mount Rainier. It was a wave of mountains, a view that imprints itself on your soul. We spent hours just sitting, eating lunch on top of the world before moving camp to a stunning, isolated perch overlooking Perfection Lake.
+![Annapurna](/images/enchantments/annapurna.jpg)
 
 ### **Day 4: Days of Wonder, a Night of Fury**
 
 We spent the day exploring the base of the iconic Prusik Peak, its sheer granite face dominating the skyline. But as afternoon settled in, the weather turned. A breeze became a snarl, and by evening, a full-blown alpine assault was underway. Our tent, perched on a rocky ledge, was violently slammed to the ground again and again. The only things keeping it from flying off like a kite were the heavy rocks we’d piled on its corners.
 
+![Prussik](/images/enchantments/prussik.jpg)
 Realizing our exposed position was a huge risk, we made a frantic, late-evening move to a more sheltered spot. It barely helped. All night, ferocious gusts crashed into our tent. The poles screamed in protest, bending to an impossible degree. Sleep was impossible. We could only lie there, hoping our gear would hold, and wait for the sun. When morning finally came, the wind vanished as if it had never been there, leaving us shaken but grateful to have survived the night.
+
+![midenchantments](/images/enchantments/midenchantments.jpg)
+
+| Our Camps | |
+|![camp1](/images/enchantments/camp1.jpg)|![camp2](/images/enchantments/camp2.jpg)|
+|![camp3](/images/enchantments/camp3.jpg)|![camp4](/images/enchantments/camp4.jpg)|
 
 ### **Day 5 & 6: The Long Goodbye**
 
 After the storm, we moved to a blissfully calm peninsula on Leprechaun Lake for a day of pure solitude, sun, yoga, and meditation. It was the peaceful eye of our adventure's hurricane.
 
+
 Our plan was to break the 11-mile, 6,000-foot descent into two days. But the comforts of home were calling. We were tired, nearly out of food, and—most critically—out of scotch. We decided to make a run for it. The trail down from the Core is a tricky, knee-jarring route over rocky slabs. When we finally reached Upper Snow Lake, the shores were packed with campers, a stark contrast to the profound solitude we had enjoyed. It made us realize how lucky we'd been. The final miles to the car were an endless, grueling slog, but we’d made it.
 
+![tosnow](/images/enchantments/descent_to_snow_lake.jpg)
 ---
 
 ### **Your Guide to an Enchanted Pilgrimage**
