@@ -20,7 +20,7 @@
 
 title: Personal Travel
 #email: your-email@example.com
-description: Travel experiences, hope it inspires you to pursuit the delights of nature.
+description: Travel experiences, hope it inspires you to pursue the delights of nature.
 logo: images/wanderpostcover.jpg
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://travel.wanderpost.com" # the base hostname & protocol for your site, e.g. http://example.com
@@ -40,9 +40,6 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-seo-tag
-
-minima:
-  hide_site_feed_link: true
 
 
 
