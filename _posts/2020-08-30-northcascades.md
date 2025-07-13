@@ -9,6 +9,9 @@ subclass: 'post'
 author: nanashi no gonbei
 ---
 
+![cover](/images/cascades/cover.jpg)
+*Cascades*
+
 ### Drowning in an Ocean of Mountains: A Journey Through the North Cascades
 
 Forget ranges, ridges, or peaks. The North Cascades are different. This isn't a mountain range; it's an ocean. An endless, churning sea of granite and ice where summits rise like colossal waves, frozen in time. To hike here is to be a mariner, navigating from high crests to deep, thundering troughs.
