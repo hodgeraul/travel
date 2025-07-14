@@ -35,11 +35,12 @@ google_analytics: G-BV8BD6LZY1
 
 
 # Build settings
-theme: minima
+remote_theme: jekyll/jasper2
 plugins:
   - jekyll-feed
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-seo-tag
+  - jekyll-remote-theme
 
 
 
