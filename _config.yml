@@ -49,6 +49,9 @@ minima:
 minima:
   hide_site_feed_link: true
 
+minima:
+  hide_site_feed_link: true
+
 
 
 # Exclude from processing.
